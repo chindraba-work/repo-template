@@ -51,16 +51,16 @@ At any stage you find this project feel free to copy and use what you find, with
   [APP]: https://keybase.io/download
   [DC]: http://developercertificate.org/
   [DCOh]: https://github.com/chindraba-work/gpg-tools/blob/master/DCO.md
-  [DCOl]: https://gitlab.com/<<OWNER>>/<<REPO>>/-/blob/<<BRANCH>>/DCO.md
+  [DCOl]: https://gitlab.com/Chindraba/repo-filler/-/blob/default/DCO.md
   [GPG]: https://www.gnupg.org/
   [GPG-HELPh]: https://help.github.com/articles/generating-a-new-gpg-key/
   [GPG-HELPl]: https://gitlab.com/help/user/project/repository/gpg_signed_commits/index.md
   [KIO]: https://keybase.io/
   [ISSUEh]: https://github.com/chindraba-work/gpg-tools/issues
-  [ISSUEl]: https://gitlab.com/<<OWNER>>/<<REPO>>/-/issues/new
+  [ISSUEl]: https://gitlab.com/Chindraba/repo-filler/-/issues/new
   [LMDh]: https://github.com/chindraba-work/gpg-tools/blob/master/LICENSE.md
-  [LMDl]: https://gitlab.com/<<OWNER>>/<<REPO>>/-/blob/<<BRANCH>>/LICENSE.md
+  [LMDl]: https://gitlab.com/Chindraba/repo-filler/-/blob/default/LICENSE.md
   [MIT-HOST]: https://pgp.mit.edu/
   [NCOC]: https://github.com/domgetter/NCoC
   [PULLh]: https://github.com/chindraba-work/gpg-tools/pulls
-  [PULLl]: https://gitlab.com/<<OWNER>>/<<REPO>>/-/merge_requests/new
+  [PULLl]: https://gitlab.com/Chindraba/repo-filler/-/merge_requests/new
