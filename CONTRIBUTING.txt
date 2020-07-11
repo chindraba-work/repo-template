@@ -16,7 +16,7 @@ own when writing your commit messages. However, the Command Line version of git
 makes doing so simple, use the "--signoff" or "-s" option when you do make your
 commit. Inside the commit message it will look like this:
 
-    Signed-off-by: Ronald Lamoreaux <gitkey@chindraba.work>
+    Signed-off-by: Your GitConfigName <username@domain.tld>
     
 Pseudonymous or anonymous contributions are permissible, but you must be
 reachable at the email provided in the "Signed-off-by" line, not just through

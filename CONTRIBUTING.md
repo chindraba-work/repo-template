@@ -4,7 +4,7 @@
 
 This project uses the Developer Certificate of Origin, Version 1.1 used by Linux Foundation in developing the Linux Kernel. The Developer Certificate of Origin is in the root of this repository as `DCO.md` ([on GitLab][DCOl] and [on GitHub][DCOh]), and online at [http://developercertificate.org/][DC]. In short, it says that you know where your contribution came from, you know you have the right to distribute it under the same license as this project, and that you can, and do, grant the right for this project to distribute it under the license listed in the `LICENSE.md` file of this project, ([on GitLab][LMDl] and [on GitHub][LMDh]). You, as a contributor signify that you agree to the Developer Certificate of Origin by inluding a sign-off line, "Signed-off-by", with any commit you make. You may type this line on your own when writing your commit messages. However, the Command Line version of `git` makes doing so simple, use the `--signoff` or `-s` option when you do make your commit. Inside the commit message it will look like this:
 
-    Signed-off-by: Ronald Lamoreaux <gitkey@chindraba.work>
+    Signed-off-by: Your GitConfigName <username@domain.tld>
 
 Pseudonymous or anonymous contributions are permissible, but you must be reachable at the email provided in the "Signed-off-by" line, not just through your account on GitLab or GitHub.
 
