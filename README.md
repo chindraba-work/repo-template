@@ -9,21 +9,21 @@
 
 
 ## Description
-================================================================================
+---
 
 A set of tools I can use to pre-populate a repository with the files I want in a public-facing repo. Some of the files, especially the `CONTRIBUTING` and `README` files reference the repo itself, and the git host, either GitLab or GitHub, and I've found that I frequently update the obvious sections while missing many of the standard parts that aren't unique to the project, in concept, yet have URLs unique to each project.
 
 [TOP](#contents)
 
 ## Requirements
-================================================================================
+---
 
 The only requirement for the tools to work is a [Bash][bash] shell.
 
 [TOP](#contents)
 
 ## Usage
-================================================================================
+---
 
 1.  Create the git repo according to the normal workflow, whatever that is in your situation.
 2.  Enter the root of the repository
@@ -34,7 +34,7 @@ The only requirement for the tools to work is a [Bash][bash] shell.
 [TOP](#contents)
 
 ## Version Numbers
-======================================================================
+---
 
 repo-filler uses Semantic Versioning v2.0.0 <https://semver.org/spec/v2.0.0.html> as created by Tom Preston-Werner <http://tom.preston-werner.com/>, inventor of Gravatars and cofounder of GitHub.
 
@@ -49,7 +49,7 @@ Version numbers take the form X.Y.Z where X is the major version, Y is the minor
 [TOP](#contents)
 
 ## Copyright and License
-======================================================================
+---
 
 The MIT license applies to all the code within this repository.
 
