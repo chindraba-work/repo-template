@@ -129,7 +129,7 @@ Resources:
 <https://pgp.mit.edu>
 
     New issues on GitHub
-<https://github.com/chindraba-work/gpg-tools/issues>
+<https://github.com/chindraba-work/repo-filler/issues>
 
     New Issues on GitLab
 <https://gitlab.com/Chindraba/repo-filler/-/issues/new>
@@ -138,7 +138,7 @@ Resources:
 <https://gitlab.com/Chindraba/repo-filler/-/merge_requests/new>
 
     New Pull Requests on GitHub
-<https://github.com/chindraba-work/gpg-tools/pulls>
+<https://github.com/chindraba-work/repo-filler/pulls>
 
     No Code of Conduct homepage
 <https://github.com/domgetter/NCoC>
