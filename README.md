@@ -27,9 +27,9 @@ The only requirement for the tools to work is a [Bash][bash] shell.
 
 1.  Create the git repo according to the normal workflow, whatever that is in your situation.
 2.  Enter the root of the repository
-3.  Create a repo-filler.conf file in the root (copy the template from here)
+3.  Create a `repo-filler.conf` file in the repo root (copy the template from here)
 4.  Adjust the values in the config file to meet the needs of the repo
-5.  Launch the filler tool, fill-repo, while in the target repo root
+5.  Launch the filler tool, `fill-repo`, while in the target repo root
 
 [TOP](#contents)
 
@@ -56,6 +56,8 @@ The MIT license applies to all the code within this repository.
 Copyright © 2020  Chindraba (Ronald Lamoreaux)
                   <[projects@chindraba.work](mailto:projects@chindraba.work?subject=repo-filler)>
 - All Rights Reserved
+
+# The MIT License
 
     Permission is hereby granted, free of charge, to any person
     obtaining a copy of this software and associated documentation
