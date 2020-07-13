@@ -64,10 +64,7 @@ the cause.
 Code of Conduct
 ================================================================================
 
-This project adheres to No Code of Conduct. We are all adults. We accept
-anyone's contributions. Nothing else matters.
-
-For more information please visit the No Code of Conduct homepage (see bleow).
+Please read the "CODE_OF_CONDUCT.txt" file in this repo for our Code of Conduct.
 
 
 Issues and bugs
@@ -140,9 +137,6 @@ Resources:
 
     New Pull Requests on GitHub
 <https://github.com/chindraba-work/repo-filler/pulls>
-
-    No Code of Conduct homepage
-<https://github.com/domgetter/NCoC>
 
     "Signing commits with GPG" on GitLab
 <https://gitlab.com/help/user/project/repository/gpg_signed_commits/index.md>

@@ -5,6 +5,8 @@ Contents
 
 * Description
 * Requirements
+* Installation
+* Usage
 * Version Numbers
 * Copyright and License
 
@@ -21,7 +23,12 @@ unique to each project.
 Requirements
 ================================================================================
 
-The only requirement for the tools to work is a Bash shell.
+The only requirement for this package is a Bash shell.
+
+Installation
+================================================================================
+
+There is no installation procedure for this package.
 
 Usage
 ================================================================================

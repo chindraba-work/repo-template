@@ -20,9 +20,7 @@ One extra step that is required beyond the GitHub help example is that your key 
 
 ## Code of Conduct
 
-This project adheres to _No Code of Conduct_. We are all adults. We accept anyone's contributions. Nothing else matters.
-
-For more information please visit the [No Code of Conduct][NCOC] homepage.
+Please read the [`CODE_OF_CONDUCT.md`][COCh] file in this repo for our Code of Conduct.
 
 ---
 
@@ -53,6 +51,7 @@ At any stage you find this project in, feel free to copy and use what you find w
 
   [APP]: https://keybase.io/download
   [DC]: http://developercertificate.org/
+  [COCh]: https://github.com/<<GITHUB_USER>>/<<GITHUB_REPO>>/blob/<<GITHUB_BRANCH>>/CODE_OF_CONDUCT.md
   [DCOh]: https://github.com/<<GITHUB_USER>>/<<GITHUB_REPO>>/blob/<<GITHUB_BRANCH>>/DCO.md
   [GPG]: https://www.gnupg.org/
   [GPG-HELPh]: https://help.github.com/articles/generating-a-new-gpg-key/

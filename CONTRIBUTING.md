@@ -20,9 +20,7 @@ One extra step that is required beyond the GitLab or GitHub help example is that
 
 ## Code of Conduct
 
-This project adheres to _No Code of Conduct_. We are all adults. We accept anyone's contributions. Nothing else matters.
-
-For more information please visit the [No Code of Conduct][NCOC] homepage.
+Please read the `CODE_OF_CONDUCT.md` file, (on [GitLab][COCl] and on [GitHub][COCh]), in this repo for our Code of Conduct.
 
 ---
 
@@ -53,6 +51,8 @@ At any stage you find this project feel in, free to copy and use what you find w
 
   [APP]: https://keybase.io/download
   [DC]: http://developercertificate.org/
+  [COCh]: https://github.com/chindraba-work/repo-filler/blob/default/CODE_OF_CONDUCT.md
+  [COCl]: https://gitlab.com/Chindraba/repo-filler/-/blob/default/CODE_OF_CONDUCT.md
   [DCOh]: https://github.com/chindraba-work/repo-filler/blob/default/DCO.md
   [DCOl]: https://gitlab.com/Chindraba/repo-filler/-/blob/default/DCO.md
   [GPG]: https://www.gnupg.org/

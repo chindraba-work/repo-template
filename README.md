@@ -4,6 +4,8 @@
 
 - [Description](#description)
 - [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Version Numbers](#version-numbers)
 - [Copyright and License](#copyright-and-license)
 
@@ -18,7 +20,14 @@ A set of tools I can use to pre-populate a repository with the files I want in a
 ---
 ## Requirements
 
-The only requirement for the tools to work is a [Bash][bash] shell.
+The only requirement for this package is a [Bash][bash] shell.
+
+[TOP](#contents)
+
+---
+## Installation
+
+There is no installation procedure for this package.
 
 [TOP](#contents)
 

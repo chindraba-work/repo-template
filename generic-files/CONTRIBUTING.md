@@ -20,9 +20,7 @@ One extra step that is required beyond the GitLab or GitHub help example is that
 
 ## Code of Conduct
 
-This project adheres to _No Code of Conduct_. We are all adults. We accept anyone's contributions. Nothing else matters.
-
-For more information please visit the [No Code of Conduct][NCOC] homepage.
+Please read the `CODE_OF_CONDUCT.md` file in this repo for our Code of Conduct.
 
 ---
 
