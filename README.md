@@ -1,4 +1,4 @@
-# repo-filler
+# repo-template
 
 ## Contents
 
@@ -36,16 +36,16 @@ There is no installation procedure for this package.
 
 1.  Create the git repo according to the normal workflow, whatever that is in your situation.
 2.  Enter the root of the repository
-3.  Create a `repo-filler.conf` file in the repo root (copy the template from here)
+3.  Create a `repo-template.conf` file in the repo root (copy the template from here)
 4.  Adjust the values in the config file to meet the needs of the repo
-5.  Launch the filler tool, `fill-repo`, while in the target repo root
+5.  Launch the filler tool, `git start-repo`, while in the target repo root
 
 [TOP](#contents)
 
 ---
 ## Version Numbers
 
-repo-filler uses Semantic Versioning v2.0.0 <https://semver.org/spec/v2.0.0.html> as created by Tom Preston-Werner <http://tom.preston-werner.com/>, inventor of Gravatars and cofounder of GitHub.
+repo-template uses Semantic Versioning v2.0.0 <https://semver.org/spec/v2.0.0.html> as created by Tom Preston-Werner <http://tom.preston-werner.com/>, inventor of Gravatars and cofounder of GitHub.
 
 Version numbers take the form X.Y.Z where X is the major version, Y is the minor version and Z is the patch version. The meaning of the different levels are:
 
@@ -63,7 +63,7 @@ Version numbers take the form X.Y.Z where X is the major version, Y is the minor
 The MIT license applies to all the code within this repository.
 
 Copyright © 2020  Chindraba (Ronald Lamoreaux)
-                  <[projects@chindraba.work](mailto:projects@chindraba.work?subject=repo-filler)>
+                  <[projects@chindraba.work](mailto:projects@chindraba.work?subject=repo-template)>
 - All Rights Reserved
 
 # The MIT License

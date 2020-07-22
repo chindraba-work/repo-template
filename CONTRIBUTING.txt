@@ -127,16 +127,16 @@ Resources:
 <https://pgp.mit.edu>
 
     New issues on GitHub
-<https://github.com/chindraba-work/repo-filler/issues>
+<https://github.com/chindraba-work/repo-template/issues>
 
     New Issues on GitLab
-<https://gitlab.com/Chindraba/repo-filler/-/issues/new>
+<https://gitlab.com/Chindraba/repo-template/-/issues/new>
 
     New Merge Requests on GitLab
-<https://gitlab.com/Chindraba/repo-filler/-/merge_requests/new>
+<https://gitlab.com/Chindraba/repo-template/-/merge_requests/new>
 
     New Pull Requests on GitHub
-<https://github.com/chindraba-work/repo-filler/pulls>
+<https://github.com/chindraba-work/repo-template/pulls>
 
     "Signing commits with GPG" on GitLab
 <https://gitlab.com/help/user/project/repository/gpg_signed_commits/index.md>

@@ -1,4 +1,4 @@
-repo-filler
+repo-template
 
 Contents
 ================================================================================
@@ -36,14 +36,14 @@ Usage
 1. Create the git repo according to the normal workflow, whatever that is in your
    situation.
 2. Enter the root of the repository
-3. Create a repo-filler.conf file in the root (copy the template from here)
+3. Create a repo-template.conf file in the root (copy the template from here)
 4. Adjust the values in the config file to meet the needs of the repo
-5. Launch the filler tool, fill-repo, while in the target repo root
+5. Launch the filler tool, git start-repo, while in the target repo root
 
 Version Numbers
 ======================================================================
 
-repo-filler uses Semantic Versioning v2.0.0
+repo-template uses Semantic Versioning v2.0.0
 <https://semver.org/spec/v2.0.0.html> as created by Tom Preston-Werner
 <http://tom.preston-werner.com/>, inventor of Gravatars and cofounder
 of GitHub.
