@@ -1,3 +1,5 @@
+<<TPL_PACKAGE_NAME>>
+
 Contributor requirements
 
 Developer Certiticate of Origin
@@ -5,21 +7,23 @@ Developer Certiticate of Origin
 
 This project uses the Developer Certificate of Origin, Version 1.1 used by Linux
 Foundation in developing the Linux Kernel. The Developer Certificate of Origin
-is in the root of this repository as DCO.txt, or online (see below). In short,
-it says that you know where your contribution came from, you know you have the
-right to distribute it under the same license as this project, and that you can,
-and do, grant the right for this project to distribute it under the license
-listed in the LICENSE.txt file of this project. You, as a contributor, signify
-that you agree to the Developer Certificate of Origin by inluding a sign-off
-line, "Signed-off-by", with any commit you make. You may type this line on your
-own when writing your commit messages. However, the git command makes doing this
-simple, use the "--signoff" or "-s"` option when you make your commit. Inside
-the commit message it will look like this:
+is in the root of this repository as "DCO.txt", and online (see below). In
+short, it says that you know where your contribution came from, you know you
+have the right to distribute it under the same license as this project, and that
+you can, and do, grant the right for this project to distribute it under the
+license used for this project, found in the root of this repository as
+"LICENSE.txt". You, as a contributor, signify that you agree to the Developer
+Certificate of Origin by inluding a sign-off line, "Signed-off-by", with any
+commit you make. You may type this line on your own when writing your commit
+messages. However, the git command makes doing this simple, use the "--signoff"
+or "-s" option when you make your commit. Inside the commit message it will
+look like this:
 
     Signed-off-by: Your GitConfigName <username@domain.tld>
     
 Pseudonymous or anonymous contributions are permissible, but you must be
-reachable at the email provided in the "Signed-off-by" line.
+reachable at the email provided in the "Signed-off-by" line, not just through
+your account on GitLab or GitHub.
 
 GPG-signed commits
 --------------------------------------------------------------------------------
@@ -32,8 +36,9 @@ key for the same email address as you use for creating the commits. GitLab has a
 good page, "Signing commits with GPG" (see below), which explains, and guides
 you through the process of creating one, and GitHub has a good page, "Generating
 a new GPG key" (see below), for essentially the same process. Both also help you
-associate the new PGP key with your account on their server, if you wish. I
-would recommend that where the instructions suggest selecting the default of
+associate the new PGP key with your account on their server, if you wish.
+
+I would recommend that where the instructions suggest selecting the default of
 "RSA and RSA" that you select "ECC and ECC" instead. The size of the keys are
 shorter and the time and work you computer uses to generate and use the keys is
 less. Selecting the ECC algorithm causes the selection of key size to be
@@ -65,10 +70,41 @@ Code of Conduct
 Please read the "CODE_OF_CONDUCT.txt" file in this repo for our Code of Conduct.
 
 
+Issues and bugs
+================================================================================
+
+Find one, report one
+--------------------------------------------------------------------------------
+
+If you find a bug, or have an issue with how something works, or doesn't work,
+open an Issue on the project page. Typos also qualify as an issue. Maybe it is
+not a bug, or is the result of a prior decision, maybe it is a problem and needs
+to be fixed. Either way the Issue will be seen and handled.
+
+Find one, patch one
+--------------------------------------------------------------------------------
+
+If you find a truly serious bug, and know how to fix it, code the solution and
+create a Merge request or Pull request, as the case may be, in this repository.
+
+Kudos to anyone willing to take the time to create solutions rather than
+notices. Please read the "Contributor requirements" secion above.
+
+
+Feature requests and enhancements
+================================================================================
+
+Treat these like an issue you found. This project is small enough that there
+probably are not any meaningful enhancements possible that are not already
+planned without taking it out of it's planned scope. Asking, or offereing, won't
+hurt anything however, and suggestions are always welcome. So create and submit
+an Issue anyway. (See above.)
+
+
 Using the project locally
 ================================================================================
 
-At any stage you find this project in, feel free to copy and use what you find
+At any stage you find this project in feel free to copy and use what you find
 within the scope of the license applied to this project.
 
 

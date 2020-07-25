@@ -1,7 +1,6 @@
-<<PACKAGE_NAME>> uses Semantic Versioning v2.0.0
-<https://semver.org/spec/v2.0.0.html> as created by Tom Preston-Werner
-<http://tom.preston-werner.com/>, inventor of Gravatars and cofounder
-of GitHub.
+<<TPL_PACKAGE_NAME>> uses Semantic Versioning v2.0.0 as created by
+Tom Preston-Werner <http://tom.preston-werner.com/>, inventor of Gravatars and
+cofounder of GitHub. (See <https://semver.org/spec/v2.0.0.html>.)
 
 Version numbers take the form X.Y.Z where X is the major version, Y is
 the minor version and Z is the patch version. The meaning of the
