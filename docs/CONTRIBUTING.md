@@ -54,11 +54,11 @@ Please read the [`ⅭODE_OF_ⅭONDUCT.md`](./CODE_OF_CONDUCT.md) file in this re
 
 If you find a bug, or have an issue with how something works, or doesn't work, open an [Issue](../../../issues) on the project page. Typos also qualify as an issue.
 
-Maybe it is not a bug, or is the result of a prior decision, maybe it is a problem and needs to be fixed. Either way, the [Issue](../../../issues) will be seen and handled.bbb
+Maybe it is not a bug, or is the result of a prior decision, maybe it is a problem and needs to be fixed. Either way, the [Issue](../../../issues) will be seen and handled.
 
 ### Find one, patch one
 
-If you find a truly serious bug, and know how to fix it, code the solution and create a Merge request, or a Pull request as the case may be, in this repo.
+If you find a truly serious bug, and know how to fix it, fork this repository, code the solution and create a Merge request, or a Pull request as the case may be, in this repo.
 
 Kudos to anyone willing to take the time to create solutions rather than notices. Please read the [__Contributor requirements__](#contributor-requirements) section above.
 
